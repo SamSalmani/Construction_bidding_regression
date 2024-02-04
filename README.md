@@ -1,1 +1,2 @@
 # Construction_bidding_regression
+In this project, based on the dataset provided by Department of Transportation (DoT), I wanted to define a logistic regression model to predict if a bidding process is collusive or not. There are some criteria defined in order to investigate whether a bidding process is healthy including the number of bids in each bidding process, the percentage of the money allocated to traffic control in each bid, and the ratio of the minimum bid to the DoT estimate.
